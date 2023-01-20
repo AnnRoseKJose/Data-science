@@ -1,0 +1,16 @@
+DATA 1(employee.csv)
+
+1. Reset the index as "name" as the index.
+2. Select rows for specific names Jack Morgan and Josh wills.
+3. Select data for multiple values "Sales" and “Finance”
+4.  Display employee who has more than 700 performance score.
+5. Display employee who has more than 500 and less than 700 performance score
+6.  Check and handle missing values in the dataset.
+
+DATA 2(titanic_dataset.csv)
+
+1.Make ‘PassengerId’ as the index column
+2.Check the basic details of the dataset¶
+3.Fill in all the missing values present in all the columns in the dataset
+
+
