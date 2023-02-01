@@ -1,0 +1,8 @@
+1) count the number of each countries and regions
+2)Plot a graph showing interational trade with respect to paopulation
+3)plot a graph showing how GDP_per_capita affects agricultural production index
+4)plot a graph showing which region has highest GDP per capital
+5)Plot a graph and show which region has highest interational trade imports
+6)Similarly, plot a graph to show which region is more consitent to GDP
+
+

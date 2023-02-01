@@ -1,0 +1,13 @@
+To find the number of male and female participated in test
+
+Student parental education
+
+Who scores the most on average for math, reading and writing based on gender
+
+Who scores the most on average for math, reading and writing based on Test preparation course
+
+What do you think about the scoring variation for math, reading and writing based on Gender
+
+What do you think about the scoring variation for math, reading and writing based on Test preparation course
+
+The management needs your help to give bonus points to the top 25% of students based on their maths score, so how will you help the management to achieve this.
